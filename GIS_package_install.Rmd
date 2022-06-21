@@ -64,7 +64,7 @@ lapply(gis_packages, require, character.only = TRUE)
 
 ```
 
-### connecting to GitHub
+### Connecting to GitHub
 
 usethis::create_from_github(
   "https://github.com/pvanzand/R_as_GIS.git",
